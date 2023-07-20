@@ -1,4 +1,8 @@
-<h1 align="center">Site - Alura Plus</h1>
+<div align="center"> 
+  
+  ![Logo alura plus](https://github.com/brunornsousa92/alura-plus/assets/17336588/aab43d24-9b1c-4253-ad6f-5b256e6abcf5) 
+  
+</div>
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
 
